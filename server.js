@@ -4,8 +4,8 @@ const app = express();
 app.use(bodyParser.json());
 
 const users = {
-  'user1@example.com': 'password1',
-  'user2@example.com': 'password2',
+  'tereza10070914@gmail.com': '10070914',
+  'user@example.com': '1234',
   // Add more users here
 };
 
